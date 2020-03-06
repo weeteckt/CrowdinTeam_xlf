@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="comment.line.add">
         <source xml:lang="en">Add Line Comment</source>
-        <target state="new">Add Line Comment</target>
+        <target state="final">Translated and Approved from Master</target>
       </trans-unit>
       <trans-unit id="comment.line.remove">
         <source xml:lang="en">Remove Line Comment</source>
