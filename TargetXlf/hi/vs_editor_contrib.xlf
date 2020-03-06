@@ -17,6 +17,12 @@
       <trans-unit id="transposeLetters.label">
         <source xml:lang="en">Transpose Letters</source>
         <target xml:lang="hi" state="translated">Test Transpose - Voting test Meghana</target>
+        <alt-trans>
+          <target xml:lang="hi">Test Transpose - Voting test Meghana meghana meghana</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="hi">Test Transpose - Voting test Meghana One more</target>
+        </alt-trans>
       </trans-unit>
     </body>
   </file>
