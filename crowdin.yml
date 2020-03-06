@@ -1,0 +1,3 @@
+files:
+  - source: /SourceXlf/*.xlf
+    translation: /TargetXlf/%two_letters_code%/vs_editor_contrib.xlf
