@@ -27,6 +27,9 @@
         <source xml:lang="en">Transpose Letters</source>
         <target xml:lang="hi" state="translated">Test Transpose - Voting test Meghana</target>
         <alt-trans>
+          <target xml:lang="hi">Test Transpose - Voting test Lynne</target>
+        </alt-trans>
+        <alt-trans>
           <target xml:lang="hi">Test Transpose - Voting test Meghana meghana meghana</target>
         </alt-trans>
         <alt-trans>
@@ -267,7 +270,10 @@
     <body>
       <trans-unit id="no result">
         <source xml:lang="en">No result.</source>
-        <target xml:lang="hi" state="needs-translation">No result.</target>
+        <target xml:lang="hi" state="translated">No results.</target>
+        <alt-trans>
+          <target xml:lang="hi">weeteckt</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="resolveRenameLocationFailed">
         <source xml:lang="en">An unknown error occurred while resolving rename location</source>
@@ -1733,7 +1739,10 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="label.noResults">
         <source xml:lang="en">No Results</source>
-        <target xml:lang="hi" state="translated">No results</target>
+        <target xml:lang="hi" state="translated">No results - Meghana</target>
+        <alt-trans>
+          <target xml:lang="hi">No results</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="ariaSearchNoResultEmpty">
         <source xml:lang="en">{0} found</source>
