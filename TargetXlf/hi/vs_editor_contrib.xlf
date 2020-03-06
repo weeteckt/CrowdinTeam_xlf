@@ -80,7 +80,10 @@
       </trans-unit>
       <trans-unit id="EditorFontZoomReset.label">
         <source xml:lang="en">Editor Font Zoom Reset</source>
-        <target xml:lang="hi" state="translated">test</target>
+        <target xml:lang="hi" state="translated">test Meg_Gar second translation for the same string</target>
+        <alt-trans>
+          <target xml:lang="hi">test</target>
+        </alt-trans>
       </trans-unit>
     </body>
   </file>
