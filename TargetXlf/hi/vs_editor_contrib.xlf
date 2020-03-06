@@ -22,9 +22,9 @@
   </file>
   <file original="src/vs/editor/contrib/comment/comment" source-language="en" datatype="plaintext" target-language="hi">
     <body>
-      <trans-unit id="comment.line">
+      <trans-unit id="comment.line" approved="yes">
         <source xml:lang="en">Toggle Line Comment</source>
-        <target xml:lang="hi" state="translated">test vote Stephen</target>
+        <target xml:lang="hi" state="final">test vote Stephen</target>
       </trans-unit>
       <trans-unit id="miToggleLineComment">
         <source xml:lang="en">&amp;&amp;Toggle Line Comment</source>
@@ -80,7 +80,7 @@
       </trans-unit>
       <trans-unit id="EditorFontZoomReset.label">
         <source xml:lang="en">Editor Font Zoom Reset</source>
-        <target xml:lang="hi" state="needs-translation">Editor Font Zoom Reset</target>
+        <target xml:lang="hi" state="translated">test</target>
       </trans-unit>
     </body>
   </file>
