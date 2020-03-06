@@ -8,7 +8,7 @@
       </trans-unit>
       <trans-unit id="caret.moveRight">
         <source xml:lang="en">Move Caret Right</source>
-        <target xml:lang="hi" state="needs-translation">Move Caret Right</target>
+        <target xml:lang="hi" state="translated">Move Caret Right Meghana.G@GMAIL.COM</target>
       </trans-unit>
     </body>
   </file>
@@ -16,7 +16,7 @@
     <body>
       <trans-unit id="transposeLetters.label">
         <source xml:lang="en">Transpose Letters</source>
-        <target xml:lang="hi" state="needs-translation">Transpose Letters</target>
+        <target xml:lang="hi" state="translated">Test Transpose - Voting test Meghana</target>
       </trans-unit>
     </body>
   </file>
@@ -24,7 +24,7 @@
     <body>
       <trans-unit id="comment.line">
         <source xml:lang="en">Toggle Line Comment</source>
-        <target xml:lang="hi" state="needs-translation">Toggle Line Comment</target>
+        <target xml:lang="hi" state="translated">test vote Stephen</target>
       </trans-unit>
       <trans-unit id="miToggleLineComment">
         <source xml:lang="en">&amp;&amp;Toggle Line Comment</source>
