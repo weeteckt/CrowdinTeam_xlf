@@ -33,7 +33,10 @@
       </trans-unit>
       <trans-unit id="comment.line.add" approved="yes">
         <source xml:lang="en">Add Line Comment</source>
-        <target xml:lang="hi" state="final">Updated in Master as Final - Double approval scenario</target>
+        <target xml:lang="hi" state="final">Updated in Master as Final - Double approval scenario - second approval</target>
+        <alt-trans>
+          <target xml:lang="hi">Updated in Master as Final - Double approval scenario</target>
+        </alt-trans>
         <alt-trans>
           <target xml:lang="hi">Testing the Approval scenario - approval from UI and approval from GitHub</target>
         </alt-trans>
