@@ -6,11 +6,17 @@
         <source xml:lang="en">Move Caret Left</source>
         <target xml:lang="hi" state="final">कैरेट बाएं ले जाएं </target>
       </trans-unit>
-      <trans-unit id="caret.moveRight">
+      <trans-unit id="caret.moveRight" approved="yes">
         <source xml:lang="en">Move Caret Right</source>
-        <target xml:lang="hi" state="translated">Move Caret Right Meghana.G@GMAIL.COM</target>
+        <target xml:lang="hi" state="final">New translation 1</target>
         <alt-trans>
           <target xml:lang="hi">Move Caret Right Lynne test</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="hi">New translation from WeeTeck</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="hi">Move Caret Right Meghana.G@GMAIL.COM</target>
         </alt-trans>
       </trans-unit>
     </body>
