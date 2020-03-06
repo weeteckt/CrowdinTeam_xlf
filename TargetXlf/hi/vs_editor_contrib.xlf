@@ -9,6 +9,9 @@
       <trans-unit id="caret.moveRight">
         <source xml:lang="en">Move Caret Right</source>
         <target xml:lang="hi" state="translated">Move Caret Right Meghana.G@GMAIL.COM</target>
+        <alt-trans>
+          <target xml:lang="hi">Move Caret Right Lynne test</target>
+        </alt-trans>
       </trans-unit>
     </body>
   </file>
@@ -58,7 +61,7 @@
       <trans-unit id="miToggleBlockComment">
         <source xml:lang="en">Toggle &amp;&amp;Block Comment</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="hi" state="needs-translation">Toggle &amp;&amp;Block Comment</target>
+        <target xml:lang="hi" state="translated">टॉगल &amp;&amp;टिप्पणी ब्लॉक करें</target>
       </trans-unit>
     </body>
   </file>
