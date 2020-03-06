@@ -31,9 +31,9 @@
         <note>&amp;&amp; denotes a mnemonic</note>
         <target xml:lang="hi" state="needs-translation">&amp;&amp;Toggle Line Comment</target>
       </trans-unit>
-      <trans-unit id="comment.line.add">
+      <trans-unit id="comment.line.add" approved="yes">
         <source xml:lang="en">Add Line Comment</source>
-        <target xml:lang="hi" state="needs-translation">Add Line Comment</target>
+        <target xml:lang="hi" state="final">Testing the Approval scenario - approval from UI and approval from GitHub</target>
       </trans-unit>
       <trans-unit id="comment.line.remove">
         <source xml:lang="en">Remove Line Comment</source>
