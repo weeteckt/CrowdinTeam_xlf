@@ -9,6 +9,15 @@
       <trans-unit id="caret.moveRight" approved="yes">
         <source xml:lang="en">Move Caret Right</source>
         <target xml:lang="hi" state="final">New translation 1</target>
+        <alt-trans>
+          <target xml:lang="hi">Move Caret Right Lynne test</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="hi">New translation from WeeTeck</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="hi">Move Caret Right Meghana.G@GMAIL.COM</target>
+        </alt-trans>
       </trans-unit>
     </body>
   </file>
@@ -16,7 +25,16 @@
     <body>
       <trans-unit id="transposeLetters.label">
         <source xml:lang="en">Transpose Letters</source>
-        <target xml:lang="hi" state="needs-translation">Transpose Letters</target>
+        <target xml:lang="hi" state="translated">Test Transpose - Voting test Meghana</target>
+        <alt-trans>
+          <target xml:lang="hi">Test Transpose - Voting test Lynne</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="hi">Test Transpose - Voting test Meghana meghana meghana</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="hi">Test Transpose - Voting test Meghana One more</target>
+        </alt-trans>
       </trans-unit>
     </body>
   </file>
@@ -34,6 +52,12 @@
       <trans-unit id="comment.line.add" approved="yes">
         <source xml:lang="en">Add Line Comment</source>
         <target xml:lang="hi" state="final">Updated in Master as Final - Double approval scenario - second approval</target>
+        <alt-trans>
+          <target xml:lang="hi">Updated in Master as Final - Double approval scenario</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="hi">Testing the Approval scenario - approval from UI and approval from GitHub</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="comment.line.remove">
         <source xml:lang="en">Remove Line Comment</source>
@@ -46,7 +70,7 @@
       <trans-unit id="miToggleBlockComment">
         <source xml:lang="en">Toggle &amp;&amp;Block Comment</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="hi" state="needs-translation">Toggle &amp;&amp;Block Comment</target>
+        <target xml:lang="hi" state="translated">टॉगल &amp;&amp;टिप्पणी ब्लॉक करें</target>
       </trans-unit>
     </body>
   </file>
@@ -74,7 +98,10 @@
       </trans-unit>
       <trans-unit id="EditorFontZoomReset.label">
         <source xml:lang="en">Editor Font Zoom Reset</source>
-        <target xml:lang="hi" state="needs-translation">Editor Font Zoom Reset</target>
+        <target xml:lang="hi" state="translated">test Meg_Gar second translation for the same string</target>
+        <alt-trans>
+          <target xml:lang="hi">test</target>
+        </alt-trans>
       </trans-unit>
     </body>
   </file>
@@ -243,7 +270,19 @@
     <body>
       <trans-unit id="no result">
         <source xml:lang="en">No result.</source>
-        <target xml:lang="hi" state="needs-translation">No result.</target>
+        <target xml:lang="hi" state="translated">No results - Meghana2</target>
+        <alt-trans>
+          <target xml:lang="hi">No results - Meghana1</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="hi">No results - Meghana.</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="hi">No results.</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="hi">weeteckt</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="resolveRenameLocationFailed">
         <source xml:lang="en">An unknown error occurred while resolving rename location</source>
@@ -1709,7 +1748,10 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="label.noResults">
         <source xml:lang="en">No Results</source>
-        <target xml:lang="hi" state="needs-translation">No Results</target>
+        <target xml:lang="hi" state="translated">No results - Meghana</target>
+        <alt-trans>
+          <target xml:lang="hi">No results</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="ariaSearchNoResultEmpty">
         <source xml:lang="en">{0} found</source>
@@ -1717,15 +1759,15 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="ariaSearchNoResult">
         <source xml:lang="en">{0} found for {1}</source>
-        <target xml:lang="hi" state="needs-translation">{0} found for {1}</target>
+        <target xml:lang="hi" state="translated">{0} found for '{1}'</target>
       </trans-unit>
       <trans-unit id="ariaSearchNoResultWithLineNum">
         <source xml:lang="en">{0} found for {1} at {2}</source>
-        <target xml:lang="hi" state="needs-translation">{0} found for {1} at {2}</target>
+        <target xml:lang="hi" state="translated">{0} found for '{1}', at {2}</target>
       </trans-unit>
       <trans-unit id="ariaSearchNoResultWithLineNumNoCurrentMatch">
         <source xml:lang="en">{0} found for {1}</source>
-        <target xml:lang="hi" state="needs-translation">{0} found for {1}</target>
+        <target xml:lang="hi" state="translated">{0} found for '{1}'</target>
       </trans-unit>
       <trans-unit id="ctrlEnter.keybindingChanged">
         <source xml:lang="en">Ctrl+Enter now inserts line break instead of replacing all. You can modify the keybinding for editor.action.replaceAll to override this behavior.</source>
