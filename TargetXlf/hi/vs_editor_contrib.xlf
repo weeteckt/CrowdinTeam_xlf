@@ -2,9 +2,9 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file original="src/vs/editor/contrib/caretOperations/caretOperations" source-language="en" datatype="plaintext" target-language="hi">
     <body>
-      <trans-unit id="caret.moveLeft">
+      <trans-unit id="caret.moveLeft" approved="yes">
         <source xml:lang="en">Move Caret Left</source>
-        <target xml:lang="hi" state="needs-translation">Move Caret Left</target>
+        <target xml:lang="hi" state="final">कैरेट बाएं ले जाएं </target>
       </trans-unit>
       <trans-unit id="caret.moveRight">
         <source xml:lang="en">Move Caret Right</source>
@@ -113,9 +113,9 @@
   </file>
   <file original="src/vs/editor/contrib/clipboard/clipboard" source-language="en" datatype="plaintext" target-language="hi">
     <body>
-      <trans-unit id="actions.clipboard.cutLabel">
+      <trans-unit id="actions.clipboard.cutLabel" approved="yes">
         <source xml:lang="en">Cut</source>
-        <target xml:lang="hi" state="needs-translation">Cut</target>
+        <target xml:lang="hi" state="final">कट </target>
       </trans-unit>
       <trans-unit id="miCut">
         <source xml:lang="en">Cu&amp;&amp;t</source>
@@ -131,9 +131,9 @@
         <note>&amp;&amp; denotes a mnemonic</note>
         <target xml:lang="hi" state="needs-translation">&amp;&amp;Copy</target>
       </trans-unit>
-      <trans-unit id="actions.clipboard.pasteLabel">
+      <trans-unit id="actions.clipboard.pasteLabel" approved="yes">
         <source xml:lang="en">Paste</source>
-        <target xml:lang="hi" state="needs-translation">Paste</target>
+        <target xml:lang="hi" state="final">चिपकाएँ </target>
       </trans-unit>
       <trans-unit id="miPaste">
         <source xml:lang="en">&amp;&amp;Paste</source>
@@ -349,9 +349,9 @@ This allows for users to show the definition preview hover without using the mou
   </file>
   <file original="src/vs/editor/contrib/peekView/peekView" source-language="en" datatype="plaintext" target-language="hi">
     <body>
-      <trans-unit id="label.close">
+      <trans-unit id="label.close" approved="yes">
         <source xml:lang="en">Close</source>
-        <target xml:lang="hi" state="needs-translation">Close</target>
+        <target xml:lang="hi" state="final">बंद करे</target>
       </trans-unit>
       <trans-unit id="peekViewTitleBackground">
         <source xml:lang="en">Background color of the peek view title area.</source>
@@ -454,9 +454,9 @@ This allows for users to show the definition preview hover without using the mou
         <source xml:lang="en">Open Definition to the Side</source>
         <target xml:lang="hi" state="needs-translation">Open Definition to the Side</target>
       </trans-unit>
-      <trans-unit id="actions.previewDecl.label">
+      <trans-unit id="actions.previewDecl.label" approved="yes">
         <source xml:lang="en">Peek Definition</source>
-        <target xml:lang="hi" state="needs-translation">Peek Definition</target>
+        <target xml:lang="hi" state="final">परिभाषा देखें</target>
       </trans-unit>
       <trans-unit id="decl.title">
         <source xml:lang="en">Declarations</source>
@@ -785,9 +785,9 @@ This allows for users to show the definition preview hover without using the mou
         <source xml:lang="en">Insert Line Below</source>
         <target xml:lang="hi" state="needs-translation">Insert Line Below</target>
       </trans-unit>
-      <trans-unit id="lines.deleteAllLeft">
+      <trans-unit id="lines.deleteAllLeft" approved="yes">
         <source xml:lang="en">Delete All Left</source>
-        <target xml:lang="hi" state="needs-translation">Delete All Left</target>
+        <target xml:lang="hi" state="final">सभी बाएँ हटाएँ</target>
       </trans-unit>
       <trans-unit id="lines.deleteAllRight">
         <source xml:lang="en">Delete All Right</source>
@@ -873,10 +873,10 @@ This allows for users to show the definition preview hover without using the mou
         <source xml:lang="en">Add Selection To Previous Find Match</source>
         <target xml:lang="hi" state="needs-translation">Add Selection To Previous Find Match</target>
       </trans-unit>
-      <trans-unit id="miAddSelectionToPreviousFindMatch">
+      <trans-unit id="miAddSelectionToPreviousFindMatch" approved="yes">
         <source xml:lang="en">Add P&amp;&amp;revious Occurrence</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="hi" state="needs-translation">Add P&amp;&amp;revious Occurrence</target>
+        <target xml:lang="hi" state="final">पिछला प्रकटन जोड़ें</target>
       </trans-unit>
       <trans-unit id="moveSelectionToNextFindMatch">
         <source xml:lang="en">Move Last Selection To Next Find Match</source>
@@ -1167,9 +1167,9 @@ This allows for users to show the definition preview hover without using the mou
         <source xml:lang="en">December</source>
         <target xml:lang="hi" state="needs-translation">December</target>
       </trans-unit>
-      <trans-unit id="JanuaryShort">
+      <trans-unit id="JanuaryShort" approved="yes">
         <source xml:lang="en">Jan</source>
-        <target xml:lang="hi" state="needs-translation">Jan</target>
+        <target xml:lang="hi" state="final">जनवरी</target>
       </trans-unit>
       <trans-unit id="FebruaryShort">
         <source xml:lang="en">Feb</source>
@@ -1223,9 +1223,9 @@ This allows for users to show the definition preview hover without using the mou
         <source xml:lang="en">Loading...</source>
         <target xml:lang="hi" state="needs-translation">Loading...</target>
       </trans-unit>
-      <trans-unit id="metaTitle.N">
+      <trans-unit id="metaTitle.N" approved="yes">
         <source xml:lang="en">{0} ({1})</source>
-        <target xml:lang="hi" state="needs-translation">{0} ({1})</target>
+        <target xml:lang="hi" state="final">{0} ({1}) </target>
       </trans-unit>
     </body>
   </file>
@@ -1331,9 +1331,9 @@ This allows for users to show the definition preview hover without using the mou
         <source xml:lang="en">Outline Provider</source>
         <target xml:lang="hi" state="needs-translation">Outline Provider</target>
       </trans-unit>
-      <trans-unit id="title.template">
+      <trans-unit id="title.template" approved="yes">
         <source xml:lang="en">{0} ({1})</source>
-        <target xml:lang="hi" state="needs-translation">{0} ({1})</target>
+        <target xml:lang="hi" state="final">{0} ({1}) </target>
       </trans-unit>
       <trans-unit id="1.problem">
         <source xml:lang="en">1 problem in this element</source>
@@ -1375,9 +1375,9 @@ This allows for users to show the definition preview hover without using the mou
         <source xml:lang="en">enumeration member</source>
         <target xml:lang="hi" state="needs-translation">enumeration member</target>
       </trans-unit>
-      <trans-unit id="Event">
+      <trans-unit id="Event" approved="yes">
         <source xml:lang="en">event</source>
-        <target xml:lang="hi" state="needs-translation">event</target>
+        <target xml:lang="hi" state="final">घटना</target>
       </trans-unit>
       <trans-unit id="Field">
         <source xml:lang="en">field</source>
@@ -1675,9 +1675,9 @@ This allows for users to show the definition preview hover without using the mou
         <source xml:lang="en">Find in selection</source>
         <target xml:lang="hi" state="needs-translation">Find in selection</target>
       </trans-unit>
-      <trans-unit id="label.closeButton">
+      <trans-unit id="label.closeButton" approved="yes">
         <source xml:lang="en">Close</source>
-        <target xml:lang="hi" state="needs-translation">Close</target>
+        <target xml:lang="hi" state="final">बंद करे</target>
       </trans-unit>
       <trans-unit id="label.replace">
         <source xml:lang="en">Replace</source>
@@ -1709,7 +1709,7 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="label.noResults">
         <source xml:lang="en">No Results</source>
-        <target xml:lang="hi" state="needs-translation">No Results</target>
+        <target xml:lang="hi" state="translated">No results</target>
       </trans-unit>
       <trans-unit id="ariaSearchNoResultEmpty">
         <source xml:lang="en">{0} found</source>
@@ -1717,15 +1717,15 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="ariaSearchNoResult">
         <source xml:lang="en">{0} found for {1}</source>
-        <target xml:lang="hi" state="needs-translation">{0} found for {1}</target>
+        <target xml:lang="hi" state="translated">{0} found for '{1}'</target>
       </trans-unit>
       <trans-unit id="ariaSearchNoResultWithLineNum">
         <source xml:lang="en">{0} found for {1} at {2}</source>
-        <target xml:lang="hi" state="needs-translation">{0} found for {1} at {2}</target>
+        <target xml:lang="hi" state="translated">{0} found for '{1}', at {2}</target>
       </trans-unit>
       <trans-unit id="ariaSearchNoResultWithLineNumNoCurrentMatch">
         <source xml:lang="en">{0} found for {1}</source>
-        <target xml:lang="hi" state="needs-translation">{0} found for {1}</target>
+        <target xml:lang="hi" state="translated">{0} found for '{1}'</target>
       </trans-unit>
       <trans-unit id="ctrlEnter.keybindingChanged">
         <source xml:lang="en">Ctrl+Enter now inserts line break instead of replacing all. You can modify the keybinding for editor.action.replaceAll to override this behavior.</source>
